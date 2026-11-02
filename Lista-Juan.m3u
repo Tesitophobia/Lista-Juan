@@ -1,0 +1,669 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal Congreso HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Canal_Congreso_Colombia_2016.png/revision/latest?cb=20210429193855&path-prefix=es" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Canal Congreso HD
+http://181.78.8.199:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/3840px-Se%C3%B1al_Colombia_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Señal Colombia SD
+http://181.78.8.199:8000/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_1_colombia.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Canal Uno HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Canal%20Uno%20SD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0cy%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Nacionales" tesito-categories="Tradicionales" tesito-language="Español" tvg-country="Colombia",RCN HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22RCN%20SD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0a8%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22RCN%20HD%20Se%C3%B1al%202%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ht%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22RCN%20HD%20Se%C3%B1al%203%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ht%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",RCN Novelas SD
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Nacionales" tesito-categories="Tradicionales" tesito-language="Español" tvg-country="Colombia",Caracol HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Se%C3%B1al%202%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0b0%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Se%C3%B1al%203%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0aw%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Se%C3%B1al%20Ditu%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0hw%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1280px-2020_Canal_Capital_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Canal Capital SD
+http://181.78.8.199:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Institucional SD" tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Canal Institucional SD
+http://181.78.8.199:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citytv HD" tvg-logo="https://cardioinfantilfriends.org/wp-content/uploads/2024/09/CityTV_Logo_2023_Naranja.webp" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Citytv HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Se%C3%B1al%202%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa087%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Se%C3%B1al%203%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0hz%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombeia SD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Colombeia SD
+http://181.78.8.199:8000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Mundo del Campo HD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",El Mundo del Campo HD
+http://181.78.8.199:8000/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia SD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Teleantioquia SD
+http://181.78.8.199:8000/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia SD 2" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Teleantioquia SD 2
+http://181.78.8.199:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe SD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Telecafe SD
+http://181.78.8.199:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe SD 2" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Telecafe SD 2
+http://181.78.8.199:8000/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico SD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Telepacifico SD
+http://181.78.8.199:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico SD 2" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Telepacifico SD 2
+http://181.78.8.199:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVAgro HD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",TVAgro HD
+http://181.78.8.199:8000/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVAgro HD 2" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",TVAgro HD 2
+http://181.78.8.199:8000/play/a0e5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unknown SD" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Unknown SD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Unknown%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0e4%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="" group-title="Nacionales" tesito-categories="" tesito-language="" tvg-country="",Telecaribe
+http://181.78.7.90:12500/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN HD
+http://189.50.210.3:8008/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN HD 2
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22ESPN%202%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0b2%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD 3" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN HD 3
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22ESPN%203%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0b3%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD 4" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN HD 4
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22ESPN%204%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa09b%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 HD 2
+http://181.78.8.199:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD 3" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 HD 3
+http://189.50.210.3:8008/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD 4" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 HD 4
+http://189.50.210.3:8008/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD 5" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 HD 5
+http://189.50.210.3:8008/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 3 HD 2
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD 3" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 3 HD 3
+http://181.78.7.90:12500/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD 5" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 3 HD 5
+http://189.50.210.3:8008/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 4 HD 2
+http://181.78.8.199:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD 3" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 4 HD 3
+http://189.50.210.3:8008/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 HD
+http://181.78.8.199:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 HD 2
+http://181.78.8.199:8000/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD 3" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 HD 3
+http://181.78.8.199:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD 4" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 HD 4
+http://189.50.210.3:8008/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 6
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22ESPN%206%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa07g%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 (ESPN 6)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 6 (ESPN 6)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIfd8RcxlCSGmdfUJ92kkAV/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 6 HD 2
+http://181.78.8.199:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD 3" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 6 HD 3
+http://189.50.210.3:8008/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 7 HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22ESPN%207%22%2C%22url%22%3A%22http%3A%2F%2F38.7.216.143%3A80%2Fplay%2FGFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLiC6EtV9xBHWDKAsZqJb-E%2Fm3u8%22%7D
+http://181.78.8.199:8000/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 7 HD 2
+http://181.78.8.199:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN Premium HD
+http://189.50.210.3:8008/play/a07q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN Premium HD 2
+http://189.50.210.3:8008/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Fox Sports 3 HD
+http://181.78.7.90:12500/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meridiano SD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Meridiano SD
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium (Chile)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TNT Sports Premium (Chile)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJvDhZ3uFCc_QuXM5C2xK0X/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (Chile)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TNT Sports (Chile)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKIPyvOjex07yq3hz6O-WlA/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TNT Sports Premium (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYK-OAsvk4Zhz2CNdxHYxXuf/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (Chile)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN (Chile)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKGIXW6bbKuFhroIMqYbtti/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKyu_w2nWd7babUoDdtLZXY/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (Colombia)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN (Colombia)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYL7FSBncdEyViYY14Lc7Zu7/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (Centroamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN (Centroamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLhOwUAdkRsX8P2zYOFtgyV/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (Chile)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 (Chile)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJvZbFP2JYfvIshl-h7UOf1/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJVMOsHYkohLTISZYimqoW0/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (Colombia)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 (Colombia)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJI6PausXkzLYBH_Zcq7Gam/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (Centroamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 2 (Centroamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKQBJwCTrimpsDF_57dwOW3/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Sudamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 3 (Sudamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKlUAqHgmN-Sbqb75Bq2UaG/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 3 (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYI5dRwGBRUaErZxmFBGcxAx/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (Centroamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 3 (Centroamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKFw9bXuBhH1emuTT6iHv-b/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (Sudamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 4 (Sudamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKwlVRXLxkFrhTg_yeOmQjQ/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (Centroamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 4 (Centroamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKLQI6C_V_c_8b7D03w3qR8/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 (Chile)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 (Chile)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIDICLzhOtLhGb24Rg-ev5O/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 (Sudamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 (Sudamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIiALGBnDNesJvAHR8OEVA5/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 (Centroamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN 5 (Centroamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJV6ITVkrllm2NTDdqVzH0y/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium (Chile)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN Premium (Chile)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIzhhs_fdWdcxCYt06b7P4t/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN Premium (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYL3nASSkHqgo-oP16vvK6Bk/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",ESPN Deportes
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIReLm3FPa0oS8xQ66kknsb/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Claro Sports
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYK_4U-j8vXi3OAD9ffoLbSF/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Claro Sports 2
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYI4qpeGjcBHwDJRa_pdIIOo/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",DSports
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKBjmhZLY9NK7i8DUNUFZAn/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports +" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",DSports +
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKgK4Ru0e8v0cRmfpt_9tck/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",DSports 2
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLVcZdtVmXQaJ4VlPsCUNeh/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TyC Sports (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIc8jwCgWoE3b5Tu4IBELzI/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports (Latinoamérica)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TyC Sports (Latinoamérica)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIWjf6kMZaDzuIhN2XbrRl2/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal FOX (México)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Canal FOX (México)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLLQ0O2815Rrc5HgCSxohxS/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",FOX Deportes
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJVoUPvm8Aay5snAaXwY_n2/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium (México)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",FOX Sports Premium (México)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLlQ9fbi6gUTFa0m72L5AT2/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",FOX Sports (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLN1hbIv8igRfx6diWqq_kP/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",FOX Sports 2 (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLK4_nLABptNYx2hY7dhBA0/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 (Argentina)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",FOX Sports 3 (Argentina)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKQ2XEsVk5dhKGd8zLKPuw6/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports La Liga (México)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",SKY Sports La Liga (México)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIpYa3ieO3w3sjCBoXOqeIE/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports Bundesliga (México)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",SKY Sports Bundesliga (México)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLTLV6AjY3ZMpp-YIHoryDj/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",CDO
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJCsEit_0Hw7nW5dGSt_HO8/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak TV" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Teletrak TV
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLtwIs1pHBhUFYMcpbr_PuH/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Golf Channel
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYL9IaiCVCz2xrqNxxSeuSzg/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN (Estados Unidos)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TUDN (Estados Unidos)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJ92Pi40Hz44CkdrlrbC5zW/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Discovery Turbo
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Discovery%20Turbo%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ci%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Discovery%20Turbo%20SD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0a5%2Findex.m3u8%22%7D
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLMpTFX_9iH03JT_F35pO9E/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT (México)" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TNT (México)
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJMTlxKEyKJZny8lNXHCSEz/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium SD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TNT Sports Premium SD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22TNT%20Sports%20Premium%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa031%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TNT Sports Premium HD 2
+http://189.50.210.3:8008/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",TyC Sports HD
+http://181.78.7.90:12500/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Win Sports + HD
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD 2" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Win Sports + HD 2
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports HD" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Win Sports HD
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Via X Esports" tvg-logo="" group-title="Deportes" tesito-categories="" tesito-language="" tvg-country="",Via X Esports
+http://189.50.210.3:8008/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Animal Planet HD
+http://181.78.8.199:8000/play/a0by/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Animal Planet HD 2
+http://181.78.8.199:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery H&H HD
+http://181.78.8.199:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery H&H HD 2
+http://181.78.8.199:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD 3" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery H&H HD 3
+http://189.50.210.3:8008/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery HD
+http://181.78.8.199:8000/play/a0c4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery HD 2
+http://181.78.8.199:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD 3" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery HD 3
+http://189.50.210.3:8008/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery ID HD
+http://181.78.8.199:8000/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery ID HD 2
+http://181.78.8.199:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery Science
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Discovery%20Science%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0hv%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery Theater HD
+http://189.50.210.3:8008/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery Theater HD 2
+http://189.50.210.3:8008/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Discovery World HD
+http://189.50.210.3:8008/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Sun Channel HD
+http://189.50.210.3:8008/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",E! HD
+http://181.78.8.199:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",E! HD 2
+http://181.78.8.199:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Las Estrellas HD
+http://181.78.8.199:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Las Estrellas HD 2
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Las%20Estrellas%202%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0cx%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas 3 HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Las Estrellas 3 HD
+http://181.78.8.199:8000/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",NatGeo HD
+http://181.78.8.199:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",NatGeo HD 2
+http://181.78.8.199:8000/play/a0c7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature SD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Love Nature SD
+http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Babytv SD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Babytv SD
+http://181.78.8.199:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",CANAL INFANTIL
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Canal%20Infantil%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa09o%2Findex.m3u8%22%7D
+http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Cartoon Network HD
+http://181.78.8.199:8000/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Cartoonito HD
+http://181.78.8.199:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Discovery Kids
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Discovery%20Kids%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa070%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD 2" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Discovery Kids HD 2
+http://181.78.8.199:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD 3" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Discovery Kids HD 3
+http://189.50.210.3:8008/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD 4" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Discovery Kids HD 4
+http://189.50.210.3:8008/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Disney Channel HD
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney HD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Disney HD
+http://189.50.210.3:8008/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Disney Junior
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Disney%20Junior%20SD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa084%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Nick HD
+http://189.50.210.3:8008/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Nickelodeon
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Nickelodeon%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa07l%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD 2" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Nickelodeon HD 2
+http://189.50.210.3:8008/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickjr SD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Nickjr SD
+http://181.78.8.199:8000/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="" group-title="Infantil" tesito-categories="" tesito-language="" tvg-country="",Tooncast HD
+http://181.78.8.199:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",A&E HD
+http://181.78.8.199:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",A&E HD 2
+http://181.78.8.199:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD 3" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",A&E HD 3
+http://181.78.8.199:8000/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",AXN HD
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",AXN HD 2
+http://181.78.8.199:8000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Familiar HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Cine Familiar HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22CINEFAMILIAR%22%2C%22url%22%3A%22http%3A%2F%2F181.78.7.90%3A12500%2Fplay%2FCINEFAMILIAR%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",CINE HISPANO
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Cine%20Hispano%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa09n%2Findex.m3u8%22%7D
+http://181.78.7.90:12500/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mexicano HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Cine Mexicano HD
+http://181.78.8.199:8000/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mexicano HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Cine Mexicano HD 2
+http://181.78.8.199:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",CINE PREMIUM
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Cine%20Premium%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa09q%2Findex.m3u8%22%7D
+http://181.78.7.90:12500/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Cinecanal HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Cinecanal%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa02z%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Cinecanal HD 2
+http://181.78.8.199:8000/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",DHE
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22DHE%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa086%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a07p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Distrito Comedia HD
+http://181.78.8.199:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Distrito Comedia HD 2
+http://181.78.8.199:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia HD 3" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Distrito Comedia HD 3
+http://181.78.8.199:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dpelicula 2 HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Dpelicula 2 HD
+http://181.78.8.199:8000/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dpelicula 3 HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Dpelicula 3 HD
+http://181.78.8.199:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dpelicula HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Dpelicula HD
+http://181.78.8.199:8000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FMH Movies HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",FMH Movies HD
+http://181.78.8.199:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",FX HD
+http://181.78.8.199:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",FX HD
+http://189.50.210.3:8008/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Golden Edge HD
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Golden Edge HD 2
+http://181.78.8.199:8000/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Golden HD
+http://181.78.8.199:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",HBO
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22HBO%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa032%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",HBO Family HD
+http://189.50.210.3:8008/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",HBO MUNDI
+http://189.50.210.3:8008/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",HBO POP HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22HBO%20POP%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa07e%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",HBO Xtreme HD
+http://189.50.210.3:8008/play/a07s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Kanal D Drama
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Kanal%20D%20Drama%20HD%204%22%2C%22url%22%3A%22http%3A%2F%2F181.78.7.90%3A12500%2Fplay%2Fa07d%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Kanal%20D%20Drama%20SD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa083%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Kanal%20D%20Drama%20SD%202%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0c6%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Lifetime
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Lifetime%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ai%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Lifetime HD 2
+http://181.78.8.199:8000/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panico SD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Panico SD
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Pasiones HD
+http://189.50.210.3:8008/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Sony Channel HD
+http://181.78.8.199:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Sony Channel HD 2
+http://181.78.8.199:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Sony Movies HD
+http://181.78.8.199:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Sony Movies HD 2
+http://181.78.8.199:8000/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD 3" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Sony Movies HD 3
+http://181.78.8.199:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Space HD
+http://181.78.8.199:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD (Space HD)" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Space HD (Space HD)
+http://189.50.210.3:8008/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Star Channel HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22STAR%20CHANNEL%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa02w%2Findex.m3u8%22%7D
+http://181.78.8.199:8000/play/a0c9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Studio Universal
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Studio%20Universal%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa09w%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Studio Universal HD 2
+http://181.78.8.199:8000/play/a0ce/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TCM SD
+http://181.78.8.199:8000/play/a0du/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Tuya SD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Tele Tuya SD
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Telemundo HD
+http://181.78.8.199:8000/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Telenovelas
+http://189.50.210.3:8008/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TLNovelas HD
+http://181.78.8.199:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TLNovelas HD 2
+http://181.78.8.199:8000/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas HD 3" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TLNovelas HD 3
+http://181.78.8.199:8000/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Red SD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",La Red SD
+http://189.50.210.3:8008/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT HD
+http://181.78.8.199:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT HD 2
+http://181.78.7.90:12500/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD 4" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT HD 4
+http://189.50.210.3:8008/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT Novelas
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22TNT%20Novelas%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0bq%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas (TNT Novelas HD)" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT Novelas (TNT Novelas HD)
+http://181.78.8.199:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT Novelas HD 2
+http://181.78.8.199:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT Series HD
+http://181.78.8.199:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",TNT Series HD 2
+http://189.50.210.3:8008/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Universal HD
+http://181.78.8.199:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Universal HD 2
+http://181.78.8.199:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Univision HD
+http://181.78.8.199:8000/play/a0av/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Univision HD 2
+http://181.78.8.199:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD 3" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Univision HD 3
+http://181.78.8.199:8000/play/a0er/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",USA
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22USA%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0cl%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA HD 2" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",USA HD 2
+http://181.78.8.199:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Warner Channel HD
+http://189.50.210.3:8008/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="" group-title="Series Y Peliculas" tesito-categories="" tesito-language="" tvg-country="",Warner HD
+http://181.78.8.199:8000/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",History 2
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22History%202%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ag%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22History%20HD%202%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0cv%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",History 2 HD 2
+http://181.78.8.199:8000/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",History HD
+http://181.78.8.199:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",BBC NEWS
+http://189.50.210.3:8008/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias SD" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",Cable Noticias SD
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias SD 2" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",Cable Noticias SD 2
+http://181.78.8.199:8000/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",Canal 24 Horas
+http://189.50.210.3:8008/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHV HD" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",CHV HD
+http://189.50.210.3:8008/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",CNN Chile
+http://189.50.210.3:8008/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",CNN HD
+http://181.78.8.199:8000/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD 2" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",CNN HD 2
+http://181.78.8.199:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET Canal El Tiempo" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",ET Canal El Tiempo
+http://189.50.210.3:8008/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",Fox News
+http://189.50.210.3:8008/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="Noticias" tesito-categories="" tesito-language="" tvg-country="",France 24
+http://189.50.210.3:8008/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",RAI SD
+http://189.50.210.3:8008/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",NTV
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJMwfzplw9rBepLH43peEVX/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13REC TV SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",13REC TV SD
+http://189.50.210.3:8008/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",WILLAX SD
+http://189.50.210.3:8008/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globovision SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Globovision SD
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globovision SD 2" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Globovision SD 2
+http://181.78.8.199:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Latina HD
+http://189.50.210.3:8008/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",MEGA HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22MEGA%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa07g%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTN 24 Horas" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",NTN 24 Horas
+http://189.50.210.3:8008/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTN24 SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",NTN24 SD
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV FANB SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",TV FANB SD
+http://181.78.8.199:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",TV+
+http://189.50.210.3:8008/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",TVN HD
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22TVN%20HD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa045%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",ANTV SD
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",America TV HD
+http://189.50.210.3:8008/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ShowVen TV" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",ShowVen TV
+http://190.102.123.28:8097/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Telesur
+http://181.78.7.90:12500/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televen SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Televen SD
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televen SD 2" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Televen SD 2
+http://181.78.8.199:8000/play/a0cd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVes SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",TVes SD
+http://181.78.8.199:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venevision SD" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Venevision SD
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venevision SD 2" tvg-logo="" group-title="Internacional" tesito-categories="" tesito-language="" tvg-country="",Venevision SD 2
+http://181.78.8.199:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim HD" tvg-logo="" group-title="Animacion" tesito-categories="" tesito-language="" tvg-country="",Adult Swim HD
+http://181.78.8.199:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim HD 2" tvg-logo="" group-title="Animacion" tesito-categories="" tesito-language="" tvg-country="",Adult Swim HD 2
+http://181.78.8.199:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BitMe HD" tvg-logo="" group-title="Anime" tesito-categories="" tesito-language="" tvg-country="",BitMe HD
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MTV
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22MTV%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ad%2Findex.m3u8%22%7D
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV (MTV HD)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MTV (MTV HD)
+http://181.78.8.199:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-name="NEW K-POP (1080p)" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicJapanTV.jp@SD" tvg-name="Music Japan TV (544p)" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg" group-title="Music" tesito-categories="" tesito-language="" tvg-country="",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MTV Live
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYK-bzZAFB_xp5zXF1qXuPLg/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now 70's" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Now 70's
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIXBb0dRb_vsAqhN1ZaJPFw/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now 80's" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Now 80's
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIs4Eb2NpBmZuzrA_r4p5Xn/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now 90's & 00's" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Now 90's & 00's
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKOJ-_A8-v1mP53WQELWaVj/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Rock" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Now Rock
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYL25ePKjrFiLK-QHPRe5II-/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Htv HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Htv HD
+http://181.78.8.199:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Kalle" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",La Kalle
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22La%20Kalle%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0dp%2Findex.m3u8%22%7D
+http://181.78.7.90:12500/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Kalle (La Kalle HD)" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",La Kalle (La Kalle HD)
+http://181.78.8.199:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica Hits HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Mi Musica Hits HD
+http://181.78.8.199:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica Hits HD 2" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Mi Musica Hits HD 2
+http://181.78.8.199:8000/play/a0fy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica Popular HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Mi Musica Popular HD
+http://181.78.8.199:8000/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica Reggaeton HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Mi Musica Reggaeton HD
+http://181.78.8.199:8000/play/a09r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Musica Salsa HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Mi Musica Salsa HD
+http://181.78.8.199:8000/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ROMANTICA" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MUSICA ROMANTICA
+http://181.78.7.90:12500/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA SALSA" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MUSICA SALSA
+http://181.78.7.90:12500/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICAPOPULAR" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MUSICAPOPULAR
+http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICAREGGAETON" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MUSICAREGGAETON
+http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUZZIK" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MUZZIK
+http://190.102.123.28:8097/play/a0c8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLN HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",TLN HD
+http://181.78.8.199:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLN HD 2" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",TLN HD 2
+http://181.78.8.199:8000/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Top Latino
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIQVux0CzEUd9VZnFg_4FE1/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Concert Channel
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJNoRdmBI-sMIEwFBfU7pOP/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Musica en mi Idioma" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Quiero Musica en mi Idioma
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYI9BE4XYt14-lv2rq9LcvDT/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray iConcerts" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Stingray iConcerts
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJiyP_vVlspmV4RrHOGaIFD/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Exa TV
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYK01bgsdiMEngRLotdF0NOU/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica Sin Limites" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Claro Musica Sin Limites
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJOZdLAr2hQ3Vg-S394hmGd/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MusicTop" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",MusicTop
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJkYHeZMlrpbd_lFl3e-NLU/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TierraMia" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",TierraMia
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKNpwuPyAM0BDkK_5bKKm_c/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telenostalgia" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Telenostalgia
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYJCEOA6C6RIngG5Ja3Ta6iC/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carolina TV" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Carolina TV
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLQBh6LSnUq13fKyMY_jpbx/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karavana TV" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Karavana TV
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLVz_u16ksFkMQF2xQWnOu_/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vive SD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Vive SD
+http://181.78.8.199:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Bandamax HD
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rumba TV HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Rumba TV HD
+http://181.78.8.199:8000/play/a0ec/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Telehit
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIxpYr-0uJAt29bE_CbCHxu/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit Musica HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Telehit Musica HD
+http://181.78.8.199:8000/play/a0g7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",TLC
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22TLC%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0ch%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD 2" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",TLC HD 2
+http://181.78.8.199:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="Gastronomía" tesito-categories="" tesito-language="" tvg-country="",Food Network
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Food%20Network%20HD%22%2C%22url%22%3A%22http%3A%2F%2F181.78.8.199%3A8000%2Fplay%2Fa0hu%2Findex.m3u8%22%7D
+#TESITOTV-SIGNAL:%7B%22name%22%3A%22Food%20Network%20SD%22%2C%22url%22%3A%22http%3A%2F%2F189.50.210.3%3A8008%2Fplay%2Fa065%2Findex.m3u8%22%7D
+http://189.50.210.3:8008/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Gastronomía" tesito-categories="" tesito-language="" tvg-country="",El Gourmet
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLeiZFwnWzqx9pUBZl-NZ9m/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP Latino" tvg-logo="" group-title="Entretenimiento" tesito-categories="" tesito-language="" tvg-country="",Travel XP Latino
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIG_KBnuWWlEoPMwrULqzu4/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hogar TV HD" tvg-logo="" group-title="Gastronomía" tesito-categories="" tesito-language="" tvg-country="",Hogar TV HD
+http://181.78.8.199:8000/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABN SD" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",ABN SD
+http://181.78.8.199:8000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cristovision SD" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",Cristovision SD
+http://181.78.8.199:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",DW Español
+http://189.50.210.3:8008/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enlace HD" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",Enlace HD
+http://181.78.8.199:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN HD" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",EWTN HD
+http://181.78.8.199:8000/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Amiga HD" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",Tele Amiga HD
+http://181.78.8.199:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Amiga HD 2" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",Tele Amiga HD 2
+http://181.78.8.199:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom SD" tvg-logo="" group-title="Religiosos" tesito-categories="" tesito-language="" tvg-country="",Zoom SD
+http://181.78.8.199:8000/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="nhk_g_tokyo" tvg-name="NHK G HD (Primehome)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Japones" tesito-categories="" tesito-language="" tvg-country="",NHK G HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+#EXTINF:-1 tvg-id="nhk_e_tokyo" tvg-name="NHK E HD (Primehome)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Japones" tesito-categories="" tesito-language="" tvg-country="",NHK E HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+#EXTINF:-1 tvg-id="tv_asahi" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="Japones" tesito-categories="" tesito-language="" tvg-country="",TV Asahi
+https://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-id="tv_asahi" tvg-name="TV Asahi HD (Primehome)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="Japones" tesito-categories="" tesito-language="" tvg-country="",TV Asahi HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+#EXTINF:-1 tvg-id="music_on_tv" tvg-name="Music ON TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png" group-title="Japones" tesito-categories="" tesito-language="" tvg-country="",Music ON TV
+https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 tvg-id="toei_channel" tvg-name="Toei Channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png" group-title="Japones" tesito-categories="" tesito-language="" tvg-country="",Toei Channel
+https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1HD" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",1HD
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music 4Ever" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Music 4Ever
+http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="98.1 PearlFM" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",98.1 PearlFM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now90s00s" tvg-logo="" group-title="Musica" tesito-categories="" tesito-language="" tvg-country="",Now90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
